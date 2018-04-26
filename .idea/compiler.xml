@@ -6,8 +6,6 @@
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="ajc" />
     <bytecodeTargetLevel>
-      <module name="aspect_main" target="1.8" />
-      <module name="aspect_test" target="1.8" />
       <module name="aspectPackage_main" target="1.8" />
       <module name="aspectPackage_test" target="1.8" />
     </bytecodeTargetLevel>
